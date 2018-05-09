@@ -1,2 +1,2 @@
 # dot-sla.sh
-porting CSS and Javascript to Jekyll Themes
+porting things to Jekyll
