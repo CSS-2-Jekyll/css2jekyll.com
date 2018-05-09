@@ -1,2 +1,3 @@
 # dot-sla.sh
-porting things to Jekyll
+
+changing the web one domain at a time.
